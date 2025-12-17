@@ -1,0 +1,42 @@
+{
+  "slide_context": "Consulting Slide",
+  "elements": [
+    {
+      "id": "10",
+      "role": "title",
+      "name": "Title 1",
+      "bbox": { "x": 400000, "y": 200000, "cx": 8000000, "cy": 900000 },
+      "paragraphs": [
+        {
+          "text": "Several companies were assessed on both their technological and financial achievements",
+          "lvl": 0,
+          "bold": false,
+          "alignment": "l",
+          "bullet": false
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "role": "content",
+      "name": "Body 1",
+      "bbox": { "x": 500000, "y": 1300000, "cx": 7800000, "cy": 3200000 },
+      "paragraphs": [
+        {
+          "text": "A cleantech company offering businesses and households modular, scalable, clean, and reliable energy solutions in Africa",
+          "lvl": 0,
+          "bold": false,
+          "alignment": "l",
+          "bullet": false
+        },
+        {
+          "text": "Green energy generated",
+          "lvl": 1,
+          "bold": false,
+          "alignment": "l",
+          "bullet": true
+        }
+      ]
+    }
+  ]
+}

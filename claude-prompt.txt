@@ -1,0 +1,1 @@
+ok, now provide me with an assessment score for how generalizable is your code, i mean how generalizable for all types of powerpoints(mainly consulting)? I mean did you handle all edge cases? having barplots,charts,circle plots...etc?? Based on that perform an assessment on the code, and suggest improvements for generalizability
