@@ -53,14 +53,14 @@ export ANTHROPIC_API_KEY="your-key-here"
 
 ## 📦 Installation
 
+**For non-technical users**: See [INSTALLATION.md](INSTALLATION.md) for simple copy-paste installation instructions.
+
+**Quick install for developers**:
 ```bash
-# Install UV (if not already installed)
-curl -LsSf https://astral.sh/uv/install.sh | sh
-
-# Clone/download the project
+git clone https://github.com/mahdizn1/ppt-translator.git
 cd ppt-translator
-
-# Dependencies are managed by UV automatically
+uv sync
+uv run streamlit run streamlit_app.py
 ```
 
 ## 🔧 Requirements
@@ -108,14 +108,9 @@ ppt-translator/
 
 ## 🎓 Built With
 
-- Pure Python (lxml, etree)
+- Python (lxml, etree)
 - OpenAI / Anthropic APIs
 - Streamlit (web interface)
-- UV package manager
-
-## 📝 License
-
-Project C - Academic/Research Use
 
 ## 🤝 Support
 

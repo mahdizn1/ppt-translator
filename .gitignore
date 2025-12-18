@@ -24,6 +24,7 @@ output_xmls/
 work_*/
 *.pptx
 !Template.pptx
+output_openai.pptx
 
 # Development and testing files
 *.xml
